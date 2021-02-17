@@ -148,14 +148,7 @@
                 </a>                
               </li>                      
             </ul>
-          </li>
-          <li class="nav-item">
-            <a href ="data_contoh.php" class="nav-link">
-            <i class="nav-icon"></i>
-            <p>
-              Data Contoh
-            </p>
-          </li>            
+          </li>                      
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
